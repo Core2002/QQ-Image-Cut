@@ -1,0 +1,15 @@
+{
+  "name": "QQ精选照片的图片切割器，By 钟小白Core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gm": "^1.23.1"
+  }
+}
