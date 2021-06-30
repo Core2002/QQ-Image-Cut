@@ -1,14 +1,18 @@
 {
-  "name": "QQ精选照片的图片切割器，By 钟小白Core",
+  "name": "QQ-Image-Cut",
   "version": "1.0.0",
-  "description": "",
+  "description": "> Node.js + GraphicsMagick",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/nekokecore/QQ-Image-Cut"
+  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "NekokeCore",
+  "license": "Mulan PSL v2",
   "dependencies": {
     "gm": "^1.23.1"
   }

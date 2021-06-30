@@ -30,7 +30,8 @@
 >> 安装 `GraphicsMagick`  
 >> `git clone https://gitee.com/nekokecore/QQ-Image-Cut`  
 >> `cd QQ-Image-Cut`  
->> `node index.js`  
+>> `npm i`
+>> `node index`  
 
 ## [附表] 图片比例表  
 > 
